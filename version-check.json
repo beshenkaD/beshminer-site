@@ -1,0 +1,12 @@
+{
+  "android": {
+    "required": "0.1.0",
+    "force": true,
+    "message": "TODO"
+  },
+  "desktop": {
+    "required": "0.1.0",
+    "force": false,
+    "message": "TODO"
+  }
+}
