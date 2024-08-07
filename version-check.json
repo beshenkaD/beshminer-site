@@ -1,12 +1,12 @@
 {
   "android": {
-    "required": "0.1.0",
+    "required": "0.1.0-alpha",
     "force": true,
-    "message": "TODO"
+    "link": ""
   },
   "desktop": {
-    "required": "0.1.0",
+    "required": "0.1.0-alpha",
     "force": false,
-    "message": "TODO"
+    "link": ""
   }
 }
