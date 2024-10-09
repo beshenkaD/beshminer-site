@@ -1,8 +1,8 @@
 {
   "android": {
-    "required": "0.1.0-alpha",
+    "required": "0.2.1-beta",
     "force": true,
-    "link": ""
+    "link": "https://github.com/beshenkaD/XenDroid/releases/tag/v0.2.1-beta"
   },
   "desktop": {
     "required": "0.1.0-alpha",
